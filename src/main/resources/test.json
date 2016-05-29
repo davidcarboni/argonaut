@@ -1,0 +1,24 @@
+{
+  "person": {
+    "name": "David Carboni",
+    "address": [
+      "111 Hobbiton Rd",
+      "Middle Earth",
+      "ME1 2JJ"
+    ],
+    "project": {
+      "name": "jjtemplate",
+      "description": "Simply getting Json data into templates in Java."
+    }
+  },
+  "books": [
+    {
+      "name": "Turn the ship around",
+      "author": "David L. Marquet"
+    },
+    {
+      "name": "Reinventing Organizations",
+      "author": "Frederic Laloux"
+    }
+  ]
+}
